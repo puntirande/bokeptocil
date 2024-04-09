@@ -45,7 +45,7 @@ export default function RootLayout({
             "name":"admin",
             "url":"https://bokeptocil.pages.dev"
             },
-            "foundingDate":"2024-04-07"
+            "foundingDate":"2024-01-09"
         }
         const jsonLd1 = {
             "@context": "https://schema.org",
